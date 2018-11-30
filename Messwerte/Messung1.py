@@ -89,12 +89,12 @@ print("Dispersions-fit-parameter",slope1)
 
 plt.plot(f1,A1,label=r"$L=12\cdot50$ mm")
 plt.legend()
-#plt.show()
+plt.show()
 plt.clf()
 plt.plot(n1,fn1,"bx",label=r"$L=12\cdot50$ mm")
 plt.plot(n1,slope1*n1+intercept1,"b")
 plt.legend()
-#plt.show()
+plt.show()
 plt.clf()
 #k=2pi*n/L,f(k)=d*k, d=steigung
 
