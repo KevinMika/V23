@@ -2,3 +2,4 @@
 \defcounter {refsection}{0}\relax 
 \select@language {german}
 \contentsline {section}{\numberline {1}Auswertung}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Näherungen für Molekül-/Atomketten}{6}{subsection.1.1}
