@@ -1,5 +1,10 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
 \select@language {german}
-\contentsline {section}{\numberline {1}Auswertung}{1}{section.1}
-\contentsline {subsection}{\numberline {1.1}Näherungen für Molekül-/Atomketten}{6}{subsection.1.1}
+\contentsline {section}{\numberline {1}Theorie}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Gemeinsamkeiten von Akustischen und Quantenmechanischen Systemen}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Unterschiede von Akustischen und Quantenmechanischen Systemen}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Analogien zur Festkörperphysik}{2}{subsection.1.3}
+\contentsline {section}{\numberline {2}Auswertung}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Näherungen für Molekül-/Atomketten}{8}{subsection.2.1}
+\contentsline {section}{\numberline {3}Diskussion}{14}{section.3}
